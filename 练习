@@ -1,0 +1,17 @@
+<!doctype html>
+<html>
+    <body>
+        <a href="HTTP://WWW.BAIDU.COM">
+            <img src="姑娘.jpg" alt="姑娘">
+        </a>
+        <br>
+        <br>
+        <A href="#bottom">go to bottom of page</A>
+        <br>
+        <div style="background-color:black;color:white;padding:20px;">
+            <h2>london</h2>
+        </div>
+
+        <b id="bottom">bottom of the page.</b>
+    </body>
+</html>
